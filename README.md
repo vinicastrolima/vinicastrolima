@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do email **viniciusc.dev@gmail.com**
 
-- 📄 Aqui estão minhas experiências profissionais [https://www.linkedin.com/in/vinicius-castro-928b1a14b/](https://www.linkedin.com/in/vinicius-castro-928b1a14b/)
+- 📄 Aqui estão minhas experiências profissionais [[https://www.linkedin.com/in/vinicius-castro-928b1a14b](https://www.linkedin.com/in/vinicastr0/)/]([https://www.linkedin.com/in/vinicius-castro-928b1a14b](https://www.linkedin.com/in/vinicastr0/)/)
 
 - ⚡ Fato curioso: **Desde sempre fui um entusiasta da tecnologia. Inicialmente, meu foco estava apenas no desenvolvimento Back-end, mas ao longo dos anos, senti a vontade e a necessidade de expandir meus conhecimentos para me tornar um desenvolvedor full-stack.**
 
