@@ -1,6 +1,6 @@
 <!--
-  SUBSTITUA `SEU_USUARIO` pelo seu @ do GitHub (três ocorrências nos cards abaixo).
-  Se não tiver certeza, abra seu perfil: github.com/<SEU_USUARIO>.
+  SUBSTITUA `vinicastrolima` pelo seu @ do GitHub (três ocorrências nos cards abaixo).
+  Se não tiver certeza, abra seu perfil: github.com/<vinicastrolima>.
 -->
 
 <div align="center">
@@ -13,7 +13,7 @@
 <a href="mailto:viniciusc.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0A66C2&label=Perfil+visto" alt="Visitas" />
+<img src="https://komarev.com/ghpvc/?username=vinicastrolima&style=for-the-badge&color=0A66C2&label=Perfil+visto" alt="Visitas" />
 
 </div>
 
@@ -45,11 +45,11 @@ Desenvolvedor Full-Stack Sênior com foco em **back-end robusto** e **integraç�
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats" />
+<a href="https://github.com/vinicastrolima">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinicastrolima&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats" />
 </a>
-<a href="https://github.com/SEU_USUARIO">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="linguagens" />
+<a href="https://github.com/vinicastrolima">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicastrolima&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="linguagens" />
 </a>
 
 </div>
@@ -57,13 +57,13 @@ Desenvolvedor Full-Stack Sênior com foco em **back-end robusto** e **integraç�
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trofeus" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vinicastrolima&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trofeus" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true" alt="atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicastrolima&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true" alt="atividade" />
 </div>
 
 ---
