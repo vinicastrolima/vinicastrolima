@@ -56,10 +56,6 @@ Desenvolvedor Full-Stack Sênior com foco em **back-end robusto** e **integraç�
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinicastrolima&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trofeus" />
-</div>
-
 <br />
 
 <div align="center">
