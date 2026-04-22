@@ -1,43 +1,61 @@
-<h1 align="center">Oi👋, Eu sou o Vinícius Castro</h1>
-<h3 align="center">Desenvolvedor Full-Stack Pleno, focado em desenvolvimento WEB e API's</h3>
+<!--
+  SUBSTITUA `SEU_USUARIO` pelo seu @ do GitHub (três ocorrências nos cards abaixo).
+  Se não tiver certeza, abra seu perfil: github.com/<SEU_USUARIO>.
+-->
 
-- 🌱 Atualmente estou focado em evoluir ainda mais minhas stacks **PHP, Laravel, Vue.Js**
-- 💬 Me pergunte majoritariamente sobre **Desenvolvimento WEB e de API's nos padrões Rest e SOAP**
-- 📫 Você me acha através do email **viniciusc.dev@gmail.com**
-- 📄 Experiências profissionais no [LinkedIn](https://www.linkedin.com/in/vinicastr0/)
-- ⚡ Fato curioso: **Sempre fui entusiasta da tecnologia. Inicialmente focado em Back-end, mas ao longo dos anos senti a necessidade de expandir meus conhecimentos para me tornar full-stack.**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vinicastr0/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicastr0" height="30" width="40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Vin%C3%ADcius%20Castro&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Senior%20Developer&descAlignY=60&descSize=18" alt="banner" />
+
+<a href="https://www.linkedin.com/in/vinicastr0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-</p>
+<a href="mailto:viniciusc.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0A66C2&label=Perfil+visto" alt="Visitas" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-</p>
+</div>
+
+<br />
+
+### Sobre
+
+Desenvolvedor Full-Stack Sênior com foco em **back-end robusto** e **integrações**. Construo sistemas web e APIs (**REST** e **SOAP**) com **PHP/Laravel** e **Vue.js**, sempre mirando arquitetura simples, entrega contínua e qualidade de produção.
+
+- Trabalhando em sistemas críticos com **alta disponibilidade** e integrações complexas
+- Aberto a conversar sobre **APIs, arquitetura, performance e DX**
+- Contato: **[viniciusc.dev@gmail.com](mailto:viniciusc.dev@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/vinicastr0/)**
+
+---
+
+### Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,js,vue,react,tailwind" alt="stack linha 1" />
+<br />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,nginx,git,linux" alt="stack linha 2" />
+
+</div>
+
+---
+
+### Estatísticas
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats" />
+</a>
+<a href="https://github.com/SEU_USUARIO">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="linguagens" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>“Simples é melhor que complexo.” — Zen of Python</sub>
+</div>
