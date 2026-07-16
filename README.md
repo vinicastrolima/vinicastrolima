@@ -58,9 +58,6 @@ Desenvolvedor Full-Stack Sênior com foco em **back-end robusto** e **integraç�
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinicastrolima&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true" alt="atividade" />
-</div>
 
 ---
 
