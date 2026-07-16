@@ -41,19 +41,6 @@ Desenvolvedor Full-Stack Sênior com foco em **back-end robusto** e **integraç�
 
 ---
 
-### Estatísticas
-
-<div align="center">
-
-<a href="https://github.com/vinicastrolima">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinicastrolima&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats" />
-</a>
-<a href="https://github.com/vinicastrolima">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicastrolima&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="linguagens" />
-</a>
-
-</div>
-
 <br />
 
 <br />
