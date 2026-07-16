@@ -41,13 +41,6 @@ Desenvolvedor Full-Stack Sênior com foco em **back-end robusto** e **integraç�
 
 ---
 
-<br />
-
-<br />
-
-
----
-
 <div align="center">
   <sub>“Simples é melhor que complexo.” — Zen of Python</sub>
 </div>
